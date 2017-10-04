@@ -1,0 +1,13 @@
+[package]
+name = "rget"
+version = "0.1.0"
+authors = ["lightswarm124 <lightswarm@gmail.com>"]
+
+[dependencies]
+clap = "2.26.0"
+console = "0.5.0"
+indicatif = "0.7.0"
+reqwest = "0.7.3"
+
+[dev-dependencies]
+assert_cli = "0.4"
